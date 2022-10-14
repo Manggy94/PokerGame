@@ -1,0 +1,17 @@
+
+.pkCard{
+    height: 64px;
+    width: 64px;
+}
+
+thead, th, tr, td, div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.out-icon{
+    height: 64px;
+    width: 64px;
+}
